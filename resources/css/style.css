@@ -4,13 +4,44 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.header--main{
+.header--University{
     font-weight: normal;
     font-size: 50px;
     color: #ffffff;
 }
 
+.header--second{
+   font-weight: 300;
+   font-size: 42px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif; 
+   color: white;
+}
+
+.header--primary{
+font-size: 21px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: grey;
+font-weight: 300;
+}
+
+.header--kindergarten{
+    font-size: 42px;
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
 .link--cta{
     font-size: 16px;
-    color:aquamarine
-}                               
+    color: aquamarine;
+}
+
+.link--sta{
+    font-size: 16px;
+    color: aquamarine;
+}
+
+.header--infancy{
+    text-align: right;
+    color: grey;
+}
