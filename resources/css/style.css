@@ -4,6 +4,12 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.header--job{
+    color:#333333; 
+    background-color:whitesmoke; 
+    padding: 10px;
+}
+
 .header--University{
     font-weight: normal;
     font-size: 50px;
