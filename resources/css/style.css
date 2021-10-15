@@ -50,5 +50,11 @@ font-weight: 300;
 
 .header--infancy{
     text-align: right;
+    color: white;
+}
+
+
+.header--newborn{
+    text-align: right;
     color: grey;
 }
